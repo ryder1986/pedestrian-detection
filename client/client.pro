@@ -3,7 +3,7 @@
 # Project created by QtCreator 2017-09-13T14:16:40
 #
 #-------------------------------------------------
-include(../pedestrian.pri)
+include(../pd.pri)
 QT       += core gui network opengl
 CONFIG +=qml c++11
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets

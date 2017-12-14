@@ -1,6 +1,6 @@
 #unix{
 #CVPATH=sss
-include(../pedestrian.pri)
+include(../pd.pri)
 message($$CVPATH) # execute 3 times
 
 HEADERS+=\
